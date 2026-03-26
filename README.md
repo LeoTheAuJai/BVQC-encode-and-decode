@@ -1,6 +1,5 @@
 
 ## 📄 README.md (英文版)
-```
 ```markdown
 # 🖼️ BVQC Image Encode & Decode
 
