@@ -2,7 +2,7 @@
 ## 📄 README.md (英文版)
 ```markdown
 # 🖼️ BVQC Image Encode & Decode
-
+```
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
