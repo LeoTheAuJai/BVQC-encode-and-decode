@@ -133,7 +133,7 @@ Created by **LeoTheAuJai**. Feel free to reach out via GitHub.
 
 ```markdown
 # 🖼️ BVQC 影像編碼與解碼工具
-
+```
 [![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
